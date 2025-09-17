@@ -1,6 +1,9 @@
 <p align="center">
+
+
 ![Fancy logo](./images/csc-dark.png#gh-dark-mode-only)
 ![Fancy logo](./images/csc-light.png#gh-light-mode-only)
+
 </p>
 <h1 align="center">
 College of Computing Education Skills Clinic
