@@ -17,6 +17,6 @@ We Learn • We Share
 </i>
 <p>
 <div align="center">
-  <a href="https://vitejs.dev/">Facebook</a> —
-  <a href="https://vitejs.dev/guide">LinkedIn</a>
+  <a href="https://www.facebook.com/cceskillsclinicofficial">Facebook</a> —
+  <a href="https://www.linkedin.com/company/cce-skills-clinic/">LinkedIn</a>
 </div>
